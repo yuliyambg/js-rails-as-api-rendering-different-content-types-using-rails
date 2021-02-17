@@ -16,7 +16,7 @@ class BirdsController < ApplicationController
 #   end
 
 
-# def index
+#   def index
 #     @birds = Bird.all
 #     render json: ['As','well','as','arrays']
 #   end
